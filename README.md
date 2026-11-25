@@ -8,6 +8,7 @@ A decision tree classifier that predicts whether a patient has heart disese (Dis
   - Mack
   - Victoria
   - Mabel
+  - Julie
 
 ## Dataset
 **Source:** `SynthDiabetes2` <br>
