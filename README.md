@@ -11,7 +11,7 @@ A decision tree classifier that predicts whether a patient has heart disese (Dis
   - Julie
 
 ## Dataset
-**Source:** `SynthDiabetes2` <br>
+**Source:** `heart_original.csv` <br>
 **Variables:** `target (Disease / No_Disease)`
 
 ## Project Structure
