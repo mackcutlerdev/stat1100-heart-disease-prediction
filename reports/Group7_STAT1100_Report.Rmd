@@ -5,15 +5,17 @@ output:
 ---
 #Group 7 STAT1100 Group Project
 #1. Introduction
-<!-- JULIE: Write a brief introduction to the project and its objective. -->
+
+In this project, we use a heart disease dataset to build a decision tree that predicts whether a patient has heart disease (Disease) or not (No_Disease) by splitting the data into two parts: 80% to train the model and 20% to test it. We used 10-Fold Cross-Validation to find the best complexity parameter (CP). Finally we check how well the tree predicts heart disease on the test data. 
 
 #2. Team Information
+
 | Full Name | Student ID | GitHub Username |
 | :--- | :---: | ---: |
-| | | |
-| | | |
-| | | |
-| | | |
+| Mack Cutler | 100429802 | mackcutlerdev |
+| Victoria Bae | 100450102 | VictoriaBae |
+| Mabel Milsted |  | lc3K1tty |
+| Julie Phan | 100461510 | juliehanphan-png |
 
 **GitHub Repo Link:** [Click me to go to repo](https://github.com/mackcutlerdev/stat1100-heart-disease-prediction)
 
