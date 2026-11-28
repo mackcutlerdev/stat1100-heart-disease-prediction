@@ -20,7 +20,7 @@ In this project, we use a heart disease dataset to build a decision tree that pr
 **GitHub Repo Link:** [Click me to go to repo](https://github.com/mackcutlerdev/stat1100-heart-disease-prediction)
 
 #3. Data Preparation and Cleaning
-<!-- JULIE: Explain the original dataset and duplicate removal -->
+The dataset has 1026 rows of patient health information
 
 ##3.1. Data Cleaning Summary
 <!-- JULIE: Insert the cleaning summary and row counts -->
